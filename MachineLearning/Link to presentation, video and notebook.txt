@@ -1,0 +1,4 @@
+Presentation: https://docs.google.com/presentation/d/1i8B-XCfrQw3_NhrOtN5mAUxju7qL-U33CFU7pPW3YH0/edit?usp=sharing
+Video(google drive): https://drive.google.com/file/d/1_JTpEUZCcIBqwAasvlK0pkfm9vz1IhLk/view?usp=sharing
+Video(youtube): https://youtu.be/1Iru9uHOS9U
+Link to notebook: https://colab.research.google.com/drive/1n7fIKe3frAla8PI7MZ4MQ5kZKOZItOyd?usp=sharing
